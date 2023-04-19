@@ -1,4 +1,4 @@
-# WARP_PLUS
+# WARP_PLUS_TELE_LOG
 This repository is for generating free GB's of data for WARP PLUS without any mod and posting the logs on telegram
 
 
