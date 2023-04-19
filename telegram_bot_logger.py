@@ -1,5 +1,5 @@
 import requests
-from telegram_bot_logger.secrets import bot_token, bot_chatID
+from warp_plus.secrets import bot_token, bot_chatID
 
 def tg_sendMessage(msg):
     assert(isinstance(msg, str))
