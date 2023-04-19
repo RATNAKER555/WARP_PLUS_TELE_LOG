@@ -1,5 +1,5 @@
-# telegram_bot_logger
-This repository is for logging the output and posting it on telegram
+# WARP_PLUS
+This repository is for generating free GB's of data for WARP PLUS without any mod and posting the logs on telegram
 
 
 If the input is via a file ensure the file is either .txt or .csv and it is in the following format:
