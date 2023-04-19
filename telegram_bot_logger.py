@@ -1,5 +1,5 @@
 import requests
-from colab_helper.secrets import bot_token, bot_chatID
+from telegram_bot_logger.secrets import bot_token, bot_chatID
 
 def tg_sendMessage(msg):
     assert(isinstance(msg, str))
